@@ -1,0 +1,12 @@
+path: ../../dataset
+train: images/train
+val: images/valid
+test: images/infer
+
+names:
+    0: Aztec
+    1: DataMatrix
+    2: Non-postal-1D-Barcodes
+    3: PDF417
+    4: Postal-1D-Barcodes
+    5: QRCode
